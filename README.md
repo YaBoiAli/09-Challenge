@@ -67,8 +67,8 @@ Contributions are welcome! If you want to contribute to this project, please fol
 
 If you have any questions or need further assistance, please feel free to reach out:
 
-- GitHub: [Your GitHub Username](https://github.com/YaBoiAli)
-- Email: [Your Email Address](mailto:alinawab9830@gmail.com)
+- GitHub: [GitHub](https://github.com/YaBoiAli)
+- Email: [Email](mailto:alinawab9830@gmail.com)
 
 ---
 
